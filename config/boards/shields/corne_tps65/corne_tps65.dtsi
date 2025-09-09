@@ -6,7 +6,7 @@
 
 #include <dt-bindings/zmk/matrix_transform.h>
 
-#include <config/drivers/sensor/tps65.h>
+
 
 / {
     chosen {
