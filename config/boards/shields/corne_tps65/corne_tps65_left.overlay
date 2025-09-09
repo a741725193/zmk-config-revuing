@@ -22,7 +22,7 @@
 }; 
 
 // Added temporarily due to @ozkan 's request 
-&pro_micro_i2c {
+&i2c0 {
     status = "okay";
     
     tps65: trackpad@74 {
